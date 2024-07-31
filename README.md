@@ -2,7 +2,7 @@
 <!--- O banner do perfil --->
 <img src="https://e0.pxfuel.com/wallpapers/92/610/desktop-wallpaper-melhores-lofi-hiphop-gifs-encontre-o-top-gif-no-gfycat-aesthetic-art-computer-lo-fi-pc.jpg" width="1300" height="300">
 
-                              ### Hi, CharlsSH 👋 My ![Visitor Count](https://profile-counter.glitch.me/CharlsSH/count.svg) visitor!
+### Hi, CharlsSH 👋 My ![Visitor Count](https://profile-counter.glitch.me/CharlsSH/count.svg) visitor!
 Sou Desenvolvedor **Backend** e **Mobile**, especializado em Java, Spring Boot, Flutter e Laravel. Sou apaixonado pelo desenvolvimento de aplicações mobile, e meu objetivo é criar soluções inovadoras que impulsionem o sucesso do negócio/empresa. Abaixo, segue as principais tecnologias que utilizo para desenvolver, testar, documentar, versionar e hospedar aplicações:
 
 <p align="center">
